@@ -1,0 +1,40 @@
+_repo: The-wellsprings-of-space_73226
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Adkins, Dan
+    alias: Adkins, Dan L.
+    birthdate: 1937
+    deathdate: 2013
+    gutenberg_agent_id: '31852'
+    url: http://www.gutenberg.org/2009/agents/31852
+creator:
+  author:
+    agent_name: Teichner, Albert
+    alias: Teichner, Albert R.
+    gutenberg_agent_id: '24789'
+    url: http://www.gutenberg.org/2009/agents/24789
+description: ''
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73226'
+language: en
+pgterms:marc905: 20240225145736teichner
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The wellsprings of space
+url: http://www.gutenberg.org/ebooks/73226
